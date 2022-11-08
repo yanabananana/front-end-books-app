@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 # front-end-books-app
 =======
 # Getting Started with Create React App
